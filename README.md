@@ -1,5 +1,5 @@
 # Ruby on Rails チュートリアル：サンプルアプリケーションですよ〜
-#変更をプッシュ
+#変更をプッシュsuru
 
 
 This is the first application for the
